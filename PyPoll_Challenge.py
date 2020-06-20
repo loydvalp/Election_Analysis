@@ -1,9 +1,12 @@
-# The data we need to retrieve.
-# 1. The total number of votes cast
-# 2. A complete list of candidates who received votes
-# 3. The percentage of votes each candidate won
-# 4. The total number of votes each candidate won
-# 5. The winner of the election based on popular vote.
+# Make a copy of PyPoll.py
+# 1. Create a list of counties.
+# 2. Create a dictionary where the county is the key and the votes cast for each county in the election are the values.
+# 3. Create an empty string that will hold the county name that had the largest turnout.
+# 4. Declare a variable that represents the number of votes that a county received.
+# 5. Inside the with open() function where you are outputting the file, do the following:
+# 5a.  Create three if statements to print out the voter turnout results similar to the results shown above.
+# 5b.  Add the results to the output file.
+# 5c.  Print the results to the command line.
 
 # Add our dependencies.
 import csv
