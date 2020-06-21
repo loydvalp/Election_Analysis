@@ -18,6 +18,7 @@ A Colorado Board of Elections employee has given the following tasks to complete
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
+
       -Candidate 1, Charles Casper Stockham
       -Candidate 2, Diana DeGette
       -Candidate 3, Raymon Anthony Doane
@@ -38,7 +39,9 @@ After reviewing the election audit, election commission has given the task to co
 
 ## Challenge Summary
 The analyis of the election show that:
+
 - The counties were:
+
       - County 1, Jefferson
       - County 2, Denver
       - County 3, Arapahoe
