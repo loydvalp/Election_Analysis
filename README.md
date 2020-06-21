@@ -39,9 +39,9 @@ After reviewing the election audit, election commission has given the task to co
 ## Challenge Summary
 The analyis of the election show that:
 - The counties were:
-      -County 1, Jefferson
-      -County 2, Denver
-      -County 3, Arapahoe
+      - County 1, Jefferson
+      - County 2, Denver
+      - County 3, Arapahoe
  - The County results were:  
       - Jefferson had 10.5% of the voters and 38,855 number of voters.
       - Denver had 82.8% of the voters and 306,055 number of voters.
