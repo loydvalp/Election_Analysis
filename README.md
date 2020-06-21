@@ -29,7 +29,26 @@ The analysis of the election show that:
       - Candidate 2, who recieved 73.8% of the vote and 272,892 number of votes.
       
 ## Challenge Overview
+After reviewing the election audit, election commission has given the task to confirm the voter turnout for each county that voted in the congressional district.
+
+1. Calculate the voter turnout for each county.
+2. Get a complete list of counties who received votes.
+3. Calculate the percentage of votes each county contributed to the election.
+4. Determine where the largest county turnout was.
+
 ## Challenge Summary
+The analyis of the election show that:
+- The counties were:
+      -County 1, Jefferson
+      -County 2, Denver
+      -County 3, Arapahoe
+ - The County results were:  
+      - Jefferson had 10.5% of the voters and 38,855 number of voters.
+      - Denver had 82.8% of the voters and 306,055 number of voters.
+      - Arapahoe had 6.7% of the voters and 24,801 number of voters.
+ - The county that had the largest turnout was:
+      - County 2, Denver, who recieved 82.8% of the vote and 306,055 number of voter turnout.    
+  
 
 
 
